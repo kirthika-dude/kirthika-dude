@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirthika R</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirthika-dude&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <h3 align="center">AI & ML Student | Flutter Developer | AI Enthusiast | App Developer</h3>
 
 ---
@@ -47,7 +50,7 @@ A healthcare application that monitors patient health, analyzes vital signs, and
 An IoT-based environmental monitoring system using ESP32 sensors to monitor air quality, temperature, and humidity in real time.
 
 ### 💬 CrazyChatbot
-An AI chatbot designed for intelligent conversations, multilingual communication, and personalized user interactions.
+An AI-powered chatbot offering multilingual conversations and intelligent assistance.
 ---
 
 ## 🏆 Achievements
@@ -68,6 +71,13 @@ An AI chatbot designed for intelligent conversations, multilingual communication
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthika-dude&layout=compact&theme=tokyonight" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kirthika-dude&theme=tokyonight" />
+</p>
+
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kirthika-r-aiml
