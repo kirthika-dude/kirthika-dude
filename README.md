@@ -34,15 +34,20 @@
 ### 🌟 AstraMind
 An AI-powered virtual assistant supporting 100+ languages with intelligent conversations, voice interaction, and smart digital shopping.
 
+### 🏡 Home Ease AI
+An AI-powered home assistance platform that connects users with trusted home services through intelligent recommendations and an intuitive user experience.
+
+### 💳 TrustPay
+A secure digital payment platform that simplifies online transactions with AI-powered fraud detection, user-friendly payment management, and enhanced financial security.
+
 ### ❤️ Health Tracker
-Healthcare application for monitoring patient health and risk assessment.
+A healthcare application that monitors patient health, analyzes vital signs, and provides intelligent risk assessment for proactive care.
 
 ### 🌱 Smart Environment Monitor
-IoT-based environmental monitoring system using ESP32 sensors.
+An IoT-based environmental monitoring system using ESP32 sensors to monitor air quality, temperature, and humidity in real time.
 
 ### 💬 CrazyChatbot
-AI chatbot with multilingual support and intelligent responses.
-
+An AI chatbot designed for intelligent conversations, multilingual communication, and personalized user interactions.
 ---
 
 ## 🏆 Achievements
