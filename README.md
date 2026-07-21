@@ -56,17 +56,20 @@ AI chatbot with multilingual support and intelligent responses.
 ---
 ## 📊 GitHub Stats
 
-![Kirthika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthika-dude&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirthika-dude&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirthika-dude&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthika-dude&layout=compact&theme=tokyonight" />
+</p>
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/kirthika-dude
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/kirthika-r-aiml
+- 💻 GitHub: https://github.com/kirthika-dude
+- 📧 Email: kirt.hika8849@gmail.com
 
-⭐ *"Turning innovative ideas into intelligent applications."*## Hi there 👋
+⭐ *"Turning innovative ideas into intelligent applications."
 
 <!--
 **kirthika-dude/kirthika-dude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
